@@ -1,0 +1,33 @@
+2025-10-29 14:58:36,842 - INFO - 🧾 Running on CHROME with user: varun1
+2025-10-29 14:58:42,295 - INFO - ✅ ParaBank homepage opened successfully.
+2025-10-29 14:58:52,591 - INFO - ✅ Registration Successful: Welcome
+2025-10-29 14:58:56,795 - INFO - ✅ Login successful.
+2025-10-29 14:59:01,415 - INFO - ✅ New account number (chrome): 15120
+2025-10-29 14:59:03,580 - INFO - 💰 Available accounts on chrome: ['15009', '15120']
+2025-10-29 14:59:08,395 - INFO - ✅ Transfer of $100 successful.
+2025-10-29 14:59:14,566 - INFO - ✅ Bill Payment of $50 complete.
+2025-10-29 14:59:19,959 - INFO - ✅ Transaction Results page verified.
+2025-10-29 14:59:20,024 - INFO - ✅ Transaction record(s) found.
+2025-10-29 14:59:20,024 - INFO - 🎯 CHROME test completed successfully for varun1
+2025-10-29 14:59:32,690 - INFO - 🧾 Running on FIREFOX with user: ravi2
+2025-10-29 14:59:35,148 - INFO - ✅ ParaBank homepage opened successfully.
+2025-10-29 14:59:40,342 - INFO - ✅ Registration Successful: Welcome
+2025-10-29 14:59:42,539 - INFO - ✅ Login successful.
+2025-10-29 14:59:45,410 - INFO - ✅ New account number (firefox): 15453
+2025-10-29 14:59:46,547 - INFO - 💰 Available accounts on firefox: ['15231', '15453']
+2025-10-29 14:59:49,428 - INFO - ✅ Transfer of $100 successful.
+2025-10-29 14:59:53,116 - INFO - ✅ Bill Payment of $50 complete.
+2025-10-29 14:59:57,904 - INFO - ✅ Transaction Results page verified.
+2025-10-29 14:59:57,910 - INFO - ✅ Transaction record(s) found.
+2025-10-29 14:59:57,910 - INFO - 🎯 FIREFOX test completed successfully for ravi2
+2025-10-29 15:00:04,767 - INFO - 🧾 Running on EDGE with user: anu3
+2025-10-29 15:00:07,768 - INFO - ✅ ParaBank homepage opened successfully.
+2025-10-29 15:00:15,295 - INFO - ✅ Registration Successful: Welcome
+2025-10-29 15:00:19,641 - INFO - ✅ Login successful.
+2025-10-29 15:00:23,971 - INFO - ✅ New account number (edge): 15786
+2025-10-29 15:00:25,696 - INFO - 💰 Available accounts on edge: ['15675', '15786']
+2025-10-29 15:00:30,467 - INFO - ✅ Transfer of $100 successful.
+2025-10-29 15:00:37,510 - INFO - ✅ Bill Payment of $50 complete.
+2025-10-29 15:00:45,563 - INFO - ✅ Transaction Results page verified.
+2025-10-29 15:00:45,591 - INFO - ✅ Transaction record(s) found.
+2025-10-29 15:00:45,591 - INFO - 🎯 EDGE test completed successfully for anu3

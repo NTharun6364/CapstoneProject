@@ -1,0 +1,50 @@
+2025-10-29 11:16:58,255 - parabank_automation - INFO - home_page.py:12 - ✅ ParaBank homepage opened successfully.
+2025-10-29 11:16:58,998 - parabank_automation - INFO - test_python.py:37 - 🧾 Registering user: varunkumar123
+2025-10-29 11:17:04,626 - parabank_automation - INFO - register_page.py:27 - ✅ Registration Successful: Welcome
+2025-10-29 11:17:07,826 - parabank_automation - INFO - login_page.py:15 - ✅ Login successful.
+2025-10-29 11:17:11,812 - parabank_automation - INFO - test_python.py:59 - ✅ New account number: 13566
+2025-10-29 11:17:13,438 - parabank_automation - INFO - test_python.py:67 - 💰 Available accounts: ['13455', '13566']
+2025-10-29 11:17:17,604 - parabank_automation - INFO - transfer_page.py:19 - ✅ Transfer of $100 successful.
+2025-10-29 11:17:24,117 - parabank_automation - INFO - billpay_page.py:22 - ✅ Bill Payment of $50 complete.
+2025-10-29 11:17:31,147 - parabank_automation - INFO - transactions_page.py:20 - ✅ Transaction Results page verified.
+2025-10-29 11:17:31,174 - parabank_automation - INFO - transactions_page.py:25 - ✅ Transaction record(s) found.
+2025-10-29 11:33:45,511 - parabank_automation - INFO - home_page.py:12 - ✅ ParaBank homepage opened successfully.
+2025-10-29 11:33:46,088 - parabank_automation - INFO - test_python.py:126 - 🧾 Registering user: varunkumar123
+2025-10-29 11:33:50,331 - parabank_automation - INFO - register_page.py:27 - ✅ Registration Successful: Welcome
+2025-10-29 11:33:53,119 - parabank_automation - INFO - login_page.py:15 - ✅ Login successful.
+2025-10-29 11:33:56,262 - parabank_automation - INFO - test_python.py:144 - ✅ New account number: 14454
+2025-10-29 11:33:57,775 - parabank_automation - INFO - test_python.py:153 - 💰 Available accounts: ['14343', '14454']
+2025-10-29 11:34:01,365 - parabank_automation - INFO - transfer_page.py:19 - ✅ Transfer of $100 successful.
+2025-10-29 11:35:39,925 - parabank_automation - INFO - home_page.py:12 - ✅ ParaBank homepage opened successfully.
+2025-10-29 11:35:41,016 - parabank_automation - INFO - test_python.py:126 - 🧾 Registering user: varunkumar123
+2025-10-29 11:35:48,414 - parabank_automation - INFO - register_page.py:27 - ✅ Registration Successful: Welcome
+2025-10-29 11:35:52,130 - parabank_automation - INFO - login_page.py:15 - ✅ Login successful.
+2025-10-29 11:35:56,972 - parabank_automation - INFO - test_python.py:144 - ✅ New account number: 13566
+2025-10-29 11:35:58,821 - parabank_automation - INFO - test_python.py:153 - 💰 Available accounts: ['13455', '13566']
+2025-10-29 11:36:03,394 - parabank_automation - INFO - transfer_page.py:19 - ✅ Transfer of $100 successful.
+2025-10-29 11:36:08,732 - parabank_automation - INFO - billpay_page.py:22 - ✅ Bill Payment of $50 complete.
+2025-10-29 11:36:14,625 - parabank_automation - INFO - transactions_page.py:20 - ✅ Transaction Results page verified.
+2025-10-29 11:36:14,652 - parabank_automation - INFO - transactions_page.py:25 - ✅ Transaction record(s) found.
+2025-10-29 11:36:14,652 - parabank_automation - INFO - test_python.py:172 - ✅ All transactions verified successfully.
+2025-10-29 11:44:17,177 - parabank_automation - INFO - test_python.py:31 - 🧾 Running on CHROME with user: varunkumar123
+2025-10-29 11:44:21,656 - parabank_automation - INFO - home_page.py:12 - ✅ ParaBank homepage opened successfully.
+2025-10-29 11:44:30,263 - parabank_automation - INFO - register_page.py:27 - ✅ Registration Successful: Welcome
+2025-10-29 11:44:34,691 - parabank_automation - INFO - login_page.py:15 - ✅ Login successful.
+2025-10-29 11:44:40,272 - parabank_automation - INFO - test_python.py:61 - ✅ New account number (chrome): 13677
+2025-10-29 11:44:42,846 - parabank_automation - INFO - test_python.py:69 - 💰 Available accounts on chrome: ['13566', '13677']
+2025-10-29 11:44:47,887 - parabank_automation - INFO - transfer_page.py:19 - ✅ Transfer of $100 successful.
+2025-10-29 11:44:54,690 - parabank_automation - INFO - billpay_page.py:22 - ✅ Bill Payment of $50 complete.
+2025-10-29 11:45:01,516 - parabank_automation - INFO - transactions_page.py:20 - ✅ Transaction Results page verified.
+2025-10-29 11:45:01,598 - parabank_automation - INFO - transactions_page.py:25 - ✅ Transaction record(s) found.
+2025-10-29 11:45:01,602 - parabank_automation - INFO - test_python.py:88 - 🎯 CHROME test completed successfully for varunkumar123
+2025-10-29 11:45:19,320 - parabank_automation - INFO - test_python.py:31 - 🧾 Running on FIREFOX with user: ravipatel
+2025-10-29 11:45:21,892 - parabank_automation - INFO - home_page.py:12 - ✅ ParaBank homepage opened successfully.
+2025-10-29 11:45:28,163 - parabank_automation - INFO - register_page.py:27 - ✅ Registration Successful: Welcome
+2025-10-29 11:45:31,977 - parabank_automation - INFO - login_page.py:15 - ✅ Login successful.
+2025-10-29 11:45:35,326 - parabank_automation - INFO - test_python.py:61 - ✅ New account number (firefox): 14232
+2025-10-29 11:45:36,810 - parabank_automation - INFO - test_python.py:69 - 💰 Available accounts on firefox: ['14121', '14232']
+2025-10-29 11:45:40,288 - parabank_automation - INFO - transfer_page.py:19 - ✅ Transfer of $100 successful.
+2025-10-29 11:45:44,832 - parabank_automation - INFO - billpay_page.py:22 - ✅ Bill Payment of $50 complete.
+2025-10-29 11:45:50,662 - parabank_automation - INFO - transactions_page.py:20 - ✅ Transaction Results page verified.
+2025-10-29 11:45:50,697 - parabank_automation - INFO - transactions_page.py:25 - ✅ Transaction record(s) found.
+2025-10-29 11:45:50,697 - parabank_automation - INFO - test_python.py:88 - 🎯 FIREFOX test completed successfully for ravipatel
