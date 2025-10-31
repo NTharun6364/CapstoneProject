@@ -1,0 +1,2 @@
+[32mINFO    [0m conftest:conftest.py:30 Starting BrowserStack remote session
+[32mINFO    [0m conftest:conftest.py:45 Quitting driver

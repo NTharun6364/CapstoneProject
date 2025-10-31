@@ -1,0 +1,6 @@
+2025-10-29 14:45:07,068 INFO Starting BrowserStack remote session
+2025-10-29 14:45:39,684 INFO ✅ Order details filled successfully
+2025-10-29 14:45:40,519 INFO 🛒 Purchase button clicked
+2025-10-29 14:45:49,468 WARNING ⚠️ Confirmation not visible within timeout (continuing anyway)
+2025-10-29 14:46:05,041 WARNING ⚠️ No confirmation dialog found to close
+2025-10-29 14:46:06,336 INFO Quitting driver

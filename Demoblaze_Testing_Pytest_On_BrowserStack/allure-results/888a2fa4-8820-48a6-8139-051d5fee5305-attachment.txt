@@ -1,0 +1,2 @@
+2025-10-29 14:39:58,069 INFO Starting BrowserStack remote session
+2025-10-29 14:41:05,806 INFO Quitting driver

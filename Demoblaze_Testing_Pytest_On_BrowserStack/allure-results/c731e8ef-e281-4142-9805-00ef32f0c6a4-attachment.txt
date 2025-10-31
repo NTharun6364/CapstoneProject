@@ -1,0 +1,6 @@
+[32mINFO    [0m conftest:conftest.py:30 Starting BrowserStack remote session
+[32mINFO    [0m pages.checkout_page:checkout_page.py:34 ✅ Order details filled successfully
+[32mINFO    [0m pages.checkout_page:checkout_page.py:40 🛒 Purchase button clicked
+[33mWARNING [0m pages.checkout_page:checkout_page.py:49 ⚠️ Confirmation not visible within timeout (continuing anyway)
+[33mWARNING [0m pages.checkout_page:checkout_page.py:59 ⚠️ No confirmation dialog found to close
+[32mINFO    [0m conftest:conftest.py:45 Quitting driver
